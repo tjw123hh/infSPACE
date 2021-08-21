@@ -136,3 +136,5 @@ MainScene:addChild(GUILayer)
 
 
 cc.Director:getInstance():runWithScene(MainScene)
+
+--GIT YES!
